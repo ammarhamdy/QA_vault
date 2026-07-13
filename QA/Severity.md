@@ -56,11 +56,11 @@ Example:
 
 ## Comparison Table
 
-|Aspect|**Severity**|**Priority**|
-|---|---|---|
-|Definition|How serious the bug is|How urgently the bug needs fixing|
-|Focus|Technical impact|Business impact|
-|Decided by|QA/Testers|Product Owner / Manager|
-|Example 1|App crashes on login → **High severity**|Must fix immediately → **High priority**|
-|Example 2|Typo in About page → **Low severity**|Needs urgent correction before launch → **High priority**|
-|Example 3|Rare crash in unused feature → **High severity**|Can be fixed later → **Low priority**|
+| Aspect     | **Severity**                                     | **Priority**                                                                     |
+| ---------- | ------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Definition | How serious the bug is                           | How urgently the bug needs fixing <br>(ما مدى إلحاح الحاجة إلى إصلاح هذا الخلل؟) |
+| Focus      | Technical impact                                 | Business impact                                                                  |
+| Decided by | QA/Testers                                       | Product Owner / Manager                                                          |
+| Example 1  | App crashes on login → **High severity**         | Must fix immediately → **High priority**                                         |
+| Example 2  | Typo in About page → **Low severity**            | Needs urgent correction before launch → **High priority**                        |
+| Example 3  | Rare crash in unused feature → **High severity** | Can be fixed later → **Low priority**                                            |

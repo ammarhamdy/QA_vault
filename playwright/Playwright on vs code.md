@@ -77,6 +77,6 @@ npx playwright codegen https://example.com
 
 Save output to a file:
 ```sh
-npx playwright codegen -o test.spec.ts
+npx playwright codegen https://example.com -o test.spec.ts
 ```
 
