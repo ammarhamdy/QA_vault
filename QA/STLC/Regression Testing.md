@@ -24,5 +24,3 @@ Regression testing is typically conducted:
 - Before major releases or deployments.
 
 
----
-

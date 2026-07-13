@@ -95,9 +95,6 @@ npx ts-node src/index.ts
 ```
 
 
-# npm fund
-
-
 
 ----
 # Quick start
@@ -173,8 +170,3 @@ This installs:
 - `ESLint`
 - Node type definitions
 and saves them into `devDependencies`.
-
-Usually also run:
-```sh
-npx tsc --init 
-```

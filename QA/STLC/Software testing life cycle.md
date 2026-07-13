@@ -11,14 +11,14 @@ In **Test Environment Setup**, the necessary hardware, software, and tools are p
 
 **Test Execution** carries out the actual tests, logging results and defects. 
 
-Finally, **Test Closure (إنهاء)** assesses (يقيم) completion criteria, documents lessons learned, and archives test artifacts. 
+Finally, **Test Closure (إنهاء)** assesses (يقيم) completion criteria, documents lessons learned, and archives test artifacts (القطع الأثرية). 
 
 Together, these phases facilitate early defect detection, efficient test management, and continuous improvement of testing processes.
 
 
 ---
 
-# Requirement Analysis
+# 1. Requirement Analysis
 
 During Requirement Analysis, testers review and analyze the software requirements to identify testable aspects and ==clarify ambiguities==.
 
@@ -40,7 +40,7 @@ This phase yields a **[[Requirement Traceability Matrix]] (RTM)**, mapping each 
 
 ---
 
-# (1) Test Planning
+# 2. Test Planning
 
 Test Planning defines the overall _approach_, _resources_, _schedule_, and _risk mitigation strategies_ for testing. 
 
@@ -62,7 +62,7 @@ A **Test Plan document** outlines the scope, objectives, resources, roles, test 
 
 ---
 
-# (2) Test Case Development
+# 3. Test Case Development
 
 In this phase, testers create detailed **test cases and test scripts** that cover all identified requirements. These cases specify input data, execution steps, and expected outcomes to validate functionality and performance
 
@@ -82,7 +82,7 @@ In this phase, testers create detailed **test cases and test scripts** that cove
 
 ---
 
-# (3) Test Environment Setup
+# 4. Test Environment Setup
 
 The Test Environment Setup phase readies (make them ready) the hardware, software, network configurations, and testing tools needed to execute test cases. 
 
@@ -104,7 +104,7 @@ It mirrors the production environment to uncover environment-specific defects.
 
 ---
 
-# (4) Test Execution
+# 5. Test Execution
 
 Test Execution involves ==running test cases against the application and logging the actual results==. 
 
@@ -122,7 +122,7 @@ Test Execution involves ==running test cases against the application and logging
 
 ---
 
-# (5) Test Closure
+# 6. Test Closure
 
 In Test Closure, the test team evaluates completion criteria, compiles metrics, and archives deliverables. 
 
