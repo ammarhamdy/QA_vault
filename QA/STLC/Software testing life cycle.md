@@ -24,7 +24,7 @@ During Requirement Analysis, testers review and analyze the software requirement
 
 They collaborate with _stakeholders_—including _business analysts_ and _developers_—to ==ensure complete understanding of functional and non-functional requirements==.
 
-This phase yields a **[[Requirement Traceability Matrix]] (RTM)**, mapping each requirement to corresponding test cases, thereby ensuring full coverage and aiding impact analysis when changes occur.
+This phase yields a **[[Requirement Traceability Matrix (RTM)]]**, mapping each requirement to corresponding test cases, thereby ensuring full coverage and aiding impact analysis when changes occur.
 
 
 ## Key Activities
@@ -47,38 +47,30 @@ Test Planning defines the overall _approach_, _resources_, _schedule_, and _risk
 A **Test Plan document** outlines the scope, objectives, resources, roles, test deliverables, and milestones.
 
 ## Key Activities
-
 **Establishing test objectives** based on requirements and risk assessment.
-
 **Estimating effort** for test design, execution, and defect management.
-
 **Allocating resources** (testers, tools, environments) and defining entry/exit criteria per phase.
 
 ## Entry and Exit Criteria
-
 **Entry:** Completed RTM and initial risk analysis.
-    
 **Exit:** Approved Test Plan and resource commitments
 
 ---
 
 # 3. Test Case Development
 
-In this phase, testers create detailed **test cases and test scripts** that cover all identified requirements. These cases specify input data, execution steps, and expected outcomes to validate functionality and performance
+In this phase, testers create detailed **test cases and test scripts** that cover all identified requirements. 
+
+These cases specify input data, execution steps, and expected outcomes to validate functionality and performance
 
 ## Key Activities
-
 **Designing test cases** for positive, negative, and edge scenarios.
-
 **Preparing test data** sets, mock services, and stubs.
-
 **Peer review** of test artifacts to ensure clarity and completeness.
 
 ## Entry and Exit Criteria
-
 **Entry:** Approved Test Plan and RTM.
-    
-**Exit:** Completion of test cases/scripts with peer review sign-off
+**Exit:** Completion of test cases/scripts with peer review sign-off.
 
 ---
 
@@ -89,17 +81,12 @@ The Test Environment Setup phase readies (make them ready) the hardware, softwar
 It mirrors the production environment to uncover environment-specific defects.
 
 ## Key Activities
-
 **Configuring test servers**, databases, and middleware.
-
 **Installing test tools** (e.g., defect trackers, automation frameworks).
-
 **Validating environment readiness** through smoke or sanity tests.
 
 ## Entry and Exit Criteria
-
 **Entry:** Approved test cases and scripts.
-
 **Exit:** Environment validation report and sign-off
 
 ---
@@ -113,11 +100,8 @@ Test Execution involves ==running test cases against the application and logging
 ==Regression tests are also performed== to ensure bug fixes do not introduce new issues.
 
 ## Key Activities
-
 **Executing manual or automated tests** per plan.
-
 **Logging defects** with detailed reproducible steps.
-
 **Defect retesting and regression testing** after fixes.
 
 ---
