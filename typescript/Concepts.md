@@ -1,5 +1,6 @@
 
 https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
 ---
 
 We frequently see the question “Should I learn JavaScript or TypeScript?“.
